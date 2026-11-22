@@ -1,0 +1,297 @@
+{
+  "app": "CMSPlayer",
+  "format": "vod-source-list",
+  "generated": "2026-11-22 13:32:58",
+  "note": "每个对象对应 CMSPlayer 设置中的「+ 添加 VOD 源」：name 起名，api 填地址。已验证可返回分类列表。",
+  "total": 48,
+  "sources": [
+    {
+      "name": "资源A 无广",
+      "api": "https://api.juliang.live/api/provide/vod/",
+      "kind": "影视",
+      "categories": 72
+    },
+    {
+      "name": "无尽",
+      "api": "https://api.wujinapi.net/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 63
+    },
+    {
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 63
+    },
+    {
+      "name": "优质",
+      "api": "https://api.yyzy-tv.vip/inc/apijson.php",
+      "kind": "影视",
+      "categories": 62
+    },
+    {
+      "name": "资源G 无广",
+      "api": "https://api.wsyzy.net/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 60
+    },
+    {
+      "name": "资源F 无广",
+      "api": "https://api.okzyw.net/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 59
+    },
+    {
+      "name": "牛牛资源",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 59
+    },
+    {
+      "name": "4K-01 不扫码",
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8",
+      "kind": "影视",
+      "categories": 59
+    },
+    {
+      "name": "最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 59
+    },
+    {
+      "name": "闪电资源",
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 59
+    },
+    {
+      "name": "百度资源",
+      "api": "https://api.apibdzy.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 54
+    },
+    {
+      "name": "茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 54
+    },
+    {
+      "name": "360",
+      "api": "https://360zy.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 51
+    },
+    {
+      "name": "火狐资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 48
+    },
+    {
+      "name": "极速资源",
+      "api": "https://jszyapi.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 48
+    },
+    {
+      "name": "虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 44
+    },
+    {
+      "name": "金鹰",
+      "api": "https://jyzyapi.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 44
+    },
+    {
+      "name": "魔都资源",
+      "api": "https://www.mdzyapi.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 42
+    },
+    {
+      "name": "魔都 动漫",
+      "api": "https://caiji.moduapi.cc/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 42
+    },
+    {
+      "name": "天涯资源",
+      "api": "https://tyyszy.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 39
+    },
+    {
+      "name": "资源E 无广",
+      "api": "https://caiji.jjzyapi.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 33
+    },
+    {
+      "name": "樱花资源",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 29
+    },
+    {
+      "name": "创享",
+      "api": "https://ys.cxkjg.cn/api/provide/vod/",
+      "kind": "影视",
+      "categories": 9
+    },
+    {
+      "name": "合集2 官采",
+      "api": "https://zy.jinchanjiexi.net/api.php/provide/vod/",
+      "kind": "影视",
+      "categories": 8
+    },
+    {
+      "name": "4K-07 不扫码",
+      "api": "https://xycm666.top/tvbox/seedhub_api.php",
+      "kind": "影视",
+      "categories": 3
+    },
+    {
+      "name": "高中 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E9%AB%98%E4%B8%AD",
+      "kind": "教育",
+      "categories": 15
+    },
+    {
+      "name": "七年级 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E4%B8%83%E5%B9%B4%E7%BA%A7",
+      "kind": "教育",
+      "categories": 13
+    },
+    {
+      "name": "六年级 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E5%85%AD%E5%B9%B4%E7%BA%A7",
+      "kind": "教育",
+      "categories": 12
+    },
+    {
+      "name": "五年级 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E4%BA%94%E5%B9%B4%E7%BA%A7",
+      "kind": "教育",
+      "categories": 11
+    },
+    {
+      "name": "四年级 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E5%9B%9B%E5%B9%B4%E7%BA%A7",
+      "kind": "教育",
+      "categories": 11
+    },
+    {
+      "name": "一年级 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E4%B8%80%E5%B9%B4%E7%BA%A7",
+      "kind": "教育",
+      "categories": 10
+    },
+    {
+      "name": "三年级 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E4%B8%89%E5%B9%B4%E7%BA%A7",
+      "kind": "教育",
+      "categories": 10
+    },
+    {
+      "name": "二年级 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E4%BA%8C%E5%B9%B4%E7%BA%A7",
+      "kind": "教育",
+      "categories": 10
+    },
+    {
+      "name": "高三 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E9%AB%98%E4%B8%89",
+      "kind": "教育",
+      "categories": 1
+    },
+    {
+      "name": "高一 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E9%AB%98%E4%B8%80",
+      "kind": "教育",
+      "categories": 1
+    },
+    {
+      "name": "高二 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E9%AB%98%E4%BA%8C",
+      "kind": "教育",
+      "categories": 1
+    },
+    {
+      "name": "九年级 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E4%B9%9D%E5%B9%B4%E7%BA%A7",
+      "kind": "教育",
+      "categories": 1
+    },
+    {
+      "name": "八年级 同步课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?g=%E5%85%AB%E5%B9%B4%E7%BA%A7",
+      "kind": "教育",
+      "categories": 1
+    },
+    {
+      "name": "实验教学 精品课",
+      "api": "https://xycm666.top/tvbox/smartedu_api.php?m=experiment",
+      "kind": "教育",
+      "categories": 1
+    },
+    {
+      "name": "听书吧",
+      "api": "https://xycm666.top/tvbox/ting8_api.php",
+      "kind": "听书",
+      "categories": 24
+    },
+    {
+      "name": "69听书网",
+      "api": "https://xycm666.top/tvbox/ting69_api.php",
+      "kind": "听书",
+      "categories": 24
+    },
+    {
+      "name": "乐听吧",
+      "api": "https://xycm666.top/tvbox/leting8_api.php",
+      "kind": "听书",
+      "categories": 24
+    },
+    {
+      "name": "全民听书",
+      "api": "https://xycm666.top/tvbox/qmtsw_api.php",
+      "kind": "听书",
+      "categories": 24
+    },
+    {
+      "name": "59听书网",
+      "api": "https://xycm666.top/tvbox/ting59_api.php",
+      "kind": "听书",
+      "categories": 24
+    },
+    {
+      "name": "17听书",
+      "api": "https://xycm666.top/tvbox/ting17_api.php",
+      "kind": "听书",
+      "categories": 24
+    },
+    {
+      "name": "天天听书网",
+      "api": "https://xycm666.top/tvbox/tingshuw_api.php",
+      "kind": "听书",
+      "categories": 24
+    },
+    {
+      "name": "51听书吧",
+      "api": "https://xycm666.top/tvbox/51tingba_api.php",
+      "kind": "听书",
+      "categories": 24
+    },
+    {
+      "name": "耳朵网",
+      "api": "https://xycm666.top/tvbox/erduowang_api.php",
+      "kind": "听书",
+      "categories": 1
+    }
+  ]
+}
